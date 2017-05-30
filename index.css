@@ -1,0 +1,65 @@
+@font-face {
+    font-family: Rationale;
+    src: url('fonts/Rationale-Regular.ttf');
+}
+
+@font-face {
+    font-family: Play;
+    src: url('fonts/Play-Regular.ttf');
+}
+
+.nav-hdr {
+    font-family: Rationale;
+}
+
+body {
+    font-family: Play;
+}
+
+.left {
+    width: 70vw;
+    max-width: 70vw;
+    float: left;
+}
+
+.right {
+    width: 25vw;
+}
+
+.navbar-header {
+    color: white;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+.j-content {
+    background-image: url(media/jez-timms-175641.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.jr-content {
+    padding: 1vw;
+}
+
+.cntnt {
+    padding: 2vw;
+    background-color: lightgray;
+}
+
+.cover {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    margin: 0;
+    padding: 2vw;
+}
+
+.slogan {
+    text-align: center;
+}
+
+.sidebar-img {
+    width: 20vw;
+    max-width: 20vw;
+    margin-bottom: 1vh;
+}
